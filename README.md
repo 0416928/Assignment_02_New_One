@@ -22,11 +22,11 @@ The name of this assignment is (Assignment_02_New_One) and this project is relat
 
 2. Discuss in your own words ways in which a software developer can employ ethical habits when writing code.
    Answer:
-3. First and foremost, when writing code developer should prioritized security that prevents hacking or malware attacks in the user system.
-4. They should never copying and pasting the code directly from the website.
-5. They should never post or send their code on social media.
+   First and foremost, when writing code developer should prioritized security that prevents hacking or malware attacks in the user system.
+   They should never copying and pasting the code directly from the website.
+   They should never post or send their code on social media.
 
-6. Describe the contents of the file(s) in this repository. You may wish to revisit this at or near the end of the assignment.
+3. Describe the contents of the file(s) in this repository. You may wish to revisit this at or near the end of the assignment.
    Answer:
    1 README.md: This file will give you the overview of the assignment. This file includes purpose and description.
    2 .gitignore: This file contains those files that should be ignored.
